@@ -9,3 +9,5 @@ Easy mode will have 3 pictures with different random color. Have mode will have 
 Click the picture with the color which you think equals to the given rgb value.
 
 **Have fun!**
+
+[Play it here](http://web.cse.ohio-state.edu/~li.8706/WebGames/ColorGame/)
